@@ -1,4 +1,4 @@
-# titanic
+# Démonstration Azure ML service - Données Titanic
 
 Notebook sur les données Titanic.
 Utilisation autoML d'Azure ML service
